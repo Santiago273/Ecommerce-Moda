@@ -20,6 +20,11 @@ Esto usará nodemon para reiniciar el servidor si editas el archivo server.js.
 Arranca en modo producción:
 
     npm start
+    
+Para traer cambios realizados por los demas integrantes:
+
+    git pull origin main
+    
 
 Abre tu navegador y visita:
 
@@ -27,3 +32,5 @@ Abre tu navegador y visita:
 
 Para ver el detalle de un producto, por ejemplo: 
     http://localhost:3000/src/pages/producto.html?id=3
+
+    
